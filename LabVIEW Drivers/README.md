@@ -16,7 +16,7 @@ The VI's are self-documenting. You can discover details about the exact function
 
 The Model 430 or Model 1700 can be directly connected to the host computer via either Ethernet (TCP/IP), which is preferred, or RS-232. Static IP address assignment is recommended in order to avoid the DHCP server from assigning different IP addresses the the same instrument over time.
 
-Firmware version 2.57 or later is required in the Model 430 as these VI's make use of alternate port 7185 for stateless remote communications without the "Welcome" message.
+**Firmware version 3.07 or later is required in the Model 430 (firmware 2.57 or later in legacy devices).** Use the [Magnet-DAQ](https://bitbucket.org/americanmagneticsinc/magnet-daq) application's integrated Firmware Upgrade Wizard to easily upgrade the Model 430 firmware. These VI's make use of alternate port 7185 for stateless Model 430 remote communications without the "Welcome" message.
 
 An example VISA string for the Model 430 is:
 
