@@ -1,6 +1,6 @@
 ## AMI Drivers
 
-These folders include example LabVIEW VI's for AMI equipment. All provided VI's are fully editable. The folder hierarchy is important, so download all files under each top level folder (if not the entire repository) in order to ensure all necessary VI's are available to load in LabVIEW.
+These folders include example LabVIEW VI's for AMI equipment. All provided VI's are fully editable. The folder hierarchy is important, so download all files under each top level folder (if not the [entire repository](https://bitbucket.org/americanmagneticsinc/ami-drivers/get/21ca0f87278d.zip)) in order to ensure all necessary VI's are available to load in LabVIEW.
 
 
 
